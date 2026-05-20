@@ -26,7 +26,9 @@
 
 
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_1.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_2.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_3.png
 
 
