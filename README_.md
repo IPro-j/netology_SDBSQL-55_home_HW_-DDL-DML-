@@ -27,8 +27,11 @@
 
 mmaster-slave:
 •	операции связанны с изменением данных только на master(INSERT, UPDATE, DELETE), 
+
 •	изменения на slave только от master
+
 •	на slave напрямую только select
+
 •	master так же поддерживает select, но запросы на чтение предпочтительно направлять на slave 
 
 master-master
