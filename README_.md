@@ -25,11 +25,19 @@
 ### Задание 1
 
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_1.png
+master-slave:
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_2.png
+операции связанные с изменением данных только на master(INSERT, UPDATE, DELETE), 
+изменения на slave только от master
+на slave напрямую только select
+master так же поддерживает select, но запросы на чтение предпочтительно направлять на slave 
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_3.png
+master-master
+
+оба сервера поддерживают запросы на запись/чтение
+сервера друг для друга одновременно и master и slave
+изменения на одном master реплицируются на другой
+падение одного из master не приводит к остановке всей системы
 
 
 ### Задание 2
