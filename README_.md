@@ -49,16 +49,27 @@ master-master
 ### Задание 2
 
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_1.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_2.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_3.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_4.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_5.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_6.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_7.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_8.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_9.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_10.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_11.png
+
 https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_12.png
 
 
