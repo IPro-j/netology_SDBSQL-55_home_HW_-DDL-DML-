@@ -48,29 +48,29 @@ master-master
 
 ### Задание 2
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_1.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep1.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_2.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep2.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_3.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep3.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_4.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep4.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_5.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep5.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_6.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep6.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_7.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep7.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_8.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep8.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_9.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep9.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_10.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep10.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_11.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep11.png
 
-https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/img_12.png
+https://github.com/IPro-j/netology_SDBSQL-55_home_HW_-DDL-DML-/blob/main/img/rep12.png
 
 
 
